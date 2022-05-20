@@ -1,5 +1,8 @@
 # pull-jira
-WIP script in Google Sheets Apps to pull information from Jira.
+
+## This is WIP  
+
+Script in Google Sheets Apps to pull information from Jira.
 
 Running **getJiraInfo()** will pull epics name,summary and dates from board ID specified in cell G4
 
